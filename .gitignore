@@ -1,0 +1,8 @@
+.west/
+build/
+build-*/*
+zephyr/
+modules/
+tools/
+tmp/
+*.log
